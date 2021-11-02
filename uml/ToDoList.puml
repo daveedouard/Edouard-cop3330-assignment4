@@ -1,0 +1,11 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+class toDoList{}
+
+class toDoListManager{}
+
+class toDoListMenu{}
+
+class toDoListAction{}
+@enduml
